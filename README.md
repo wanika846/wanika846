@@ -22,6 +22,8 @@ Papar statistik aktiviti pembangunan saya di GitHub secara langsung:
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wanika846&color=green&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=wanika846&theme=dark&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="400" /><br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanika846&theme=dark&layout=compact" alt="Top Languages" width="400" />
 </p>
