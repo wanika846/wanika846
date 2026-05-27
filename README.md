@@ -17,8 +17,9 @@ An Android-based Security Researcher and OSINT Enthusiast exploration powered by
 ### 📊 GitHub Analytics
 Papar statistik aktiviti pembangunan saya di GitHub secara langsung:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wanika846&theme=tokyonight&show_icons=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wanika846&theme=tokyonight&layout=compact)
+![Statistik GitHub Wanika](https://github-readme-stats-sigma-five.vercel.app/api?username=wanika846&theme=tokyonight&show_icons=true&count_private=true)
+![Bahasa Utama Wanika](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wanika846&theme=tokyonight&layout=compact)
+
 
 ---
 
