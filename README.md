@@ -72,4 +72,4 @@
 
 
 ---
-_Last updated: $(date 2026-09-16)_
+_Last updated: 2026-09-16_
