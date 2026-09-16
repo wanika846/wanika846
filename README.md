@@ -1,30 +1,75 @@
-## Hi there 👋 I'm Wanika 🧑‍💻
+# 👋 Hi, I'm Wanika
 
-An Android-based Security Researcher and OSINT Enthusiast exploration powered by Termux. Interested in automation, network analysis, and open-source intelligence.
+🔐 Cybersecurity enthusiast | OSINT & Ethical Hacking learner
+📱 Mobile-first developer (Android/Termux)
+
+## 🌐 Let's Connect
+[
+
+![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)
+
+](mailto:Wanika846@gmail.com)
+[
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+](https://github.com/wanika846)
+
+## 🛠️ Tools I'm Learning
+
+
+![Nmap](https://img.shields.io/badge/Nmap-blue?style=for-the-badge)
+
+
+
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+
+
+
+![Kali Linux](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+
+
+
+![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=terminal&logoColor=white)
+
+
+
+## 💻 Tech Stack
+
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+
+
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+
+
+
+![Bash](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+
+
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+
+
+## 📊 GitHub Stats
+
+
+![Stats](https://github-readme-stats.vercel.app/api?username=wanika846&show_icons=true&theme=radical)
+
+
+
+
+![Streak](https://streak-stats.demolab.com/?user=wanika846&theme=radical)
+
+
 
 ---
-
-### 🛡️ Cybersecurity & OSINT Toolkit
-* **OSINT:** Phoneinfoga, Spiderfoot, OSINT Dashboard
-* **Network & Phishing Assessment:** Blackeye, Nmap
-* **Environment:** Termux (Android 16 / Zsh / Arch64)
-
-### 💻 Tech Stack
-![Bash](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-
----
-
-### 📊 GitHub Analytics
-Papar statistik aktiviti pembangunan saya di GitHub secara langsung:
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wanika846&theme=tokyonight&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wanika846&theme=tokyonight)
-
----
-
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=wanika846&theme=dark&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="400" /><br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanika846&theme=dark&layout=compact" alt="Top Languages" width="400" />
-</p>
+_Last updated: $(date 2026-09-16)_
